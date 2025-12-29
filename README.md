@@ -1,7 +1,9 @@
 # 💫 About Me:
-im a full stack web developer, software engineer
-
-
+Full-stack Developer and AI Engineer passionate about building scalable, intelligent web applications.
+Experienced in Python, JavaScript, and TypeScript with expertise in React.js, Node.js, Django, and FastAPI.
+Skilled in end-to-end application development, RESTful API design, cloud-based deployment, and machine
+learning model integration. Adept at translating research and business requirements into robust software
+solutions. Enthusiastic about leveraging AI, automation, and data engineering to solve real-world problems.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanjaiamirthalingam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanamirthalingam@gmail.com) 
 
@@ -12,9 +14,8 @@ im a full stack web developer, software engineer
 ![](https://nirzak-streak-stats.vercel.app/?user=sanjai010&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub 
-![]([https://github-profile-trophy.vercel.app/?username=sanjai010&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp6ajhjbm9vbm1odHRjdndqbnBoZDM1ZHp0bjYzbzN3cm5uZHVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif))
-
+##****
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lxcGk5M3l6a3dqY2EzczMxcXU4amh1cTR4ZWliMngybm4xdGd4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
