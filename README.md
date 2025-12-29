@@ -12,8 +12,8 @@ im a full stack web developer, software engineer
 ![](https://nirzak-streak-stats.vercel.app/?user=sanjai010&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjai010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanjai010&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub 
+![]([https://github-profile-trophy.vercel.app/?username=sanjai010&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp6ajhjbm9vbm1odHRjdndqbnBoZDM1ZHp0bjYzbzN3cm5uZHVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif))
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
